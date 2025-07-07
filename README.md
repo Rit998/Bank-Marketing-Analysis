@@ -1,2 +1,2 @@
 # ML-Projects
-Just some ML projects where I practice and work on ML concepts and implement them
+Just some ML projects on banking data analysis comparing different ml models and applying pipelines to better the function the models.
