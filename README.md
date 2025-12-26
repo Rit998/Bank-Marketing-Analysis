@@ -1,2 +1,2 @@
 # ML-Projects
-Just some ML projects on banking data analysis comparing different ml models and applying pipelines to better the function the models.
+Just some ML project on banking data analysis comparing different Machine Learning models and applying pipelines to better the function the models
